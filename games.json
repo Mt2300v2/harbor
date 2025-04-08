@@ -1,0 +1,135 @@
+[
+    {
+        "id": "730",
+        "installedState": "uninstalled"
+    },
+    {
+        "id": "105600",
+        "name": "Terraria",
+        "source": "magnet:?xt=urn:btih:73C9760A1844E4E442E384E834993CBB120C740C&dn=Terraria%20v1.4.4.9v4&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce",
+        "exex_target": "Terraria.exe",
+        "is_free": false,
+        "type": "game",
+        "description": "Dig, Fight, Explore, Build:  The very world is at your fingertips as you fight for survival, fortune, and glory.   Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics?   Perhaps you will choose instead to seek out ever-greater foes to test your mettle in combat?   Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels? \n\nIn the World of Terraria, the choice is yours!\n\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the player’s control.   The Terraria adventure is truly as unique as the players themselves!  \n\nAre you up for the monumental task of exploring, creating, and defending a world of your own?  \n\n Key features:\n Sandbox Play\n  Randomly generated worlds\n Free Content Updates",
+        "developer": "Re-Logic",
+        "publisher": "Re-Logic",
+        "release_date": "16 May, 2011",
+        "supported_os": "Windows, macOS, Linux",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Co-op",
+            "Online Co-op",
+            "Steam Achievements",
+            "Full controller support",
+            "Steam Trading Cards",
+            "Steam Cloud",
+            "Remote Play on Phone",
+            "Remote Play on Tablet",
+            "Remote Play on TV",
+            "Family Sharing"
+        ],
+        "supported_languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Polish",
+            "Portuguese - Brazil",
+            "Russian",
+            "Simplified Chinese",
+            "Spanish - Spain"
+        ],
+        "metacritic_score": 83,
+        "metacritic_url": "https://www.metacritic.com/game/pc/terraria?ftag=MCD-06-10aaa1f",
+        "pc_requirements": {
+            "minimum": "REQUIREDOS: Windows Xp, Vista, 7, 8/8.1, 10 \n Processor: 2.0 Ghz \n Memory: 2.5GB\n Hard Disk Space: 200MB  \n Video Card: 128mb Video Memory, capable of Shader Model 2.0+ \n DirectX®: 9.0c or Greater",
+            "recommended": "RECOMMENDEDOS: Windows 7, 8/8.1, 10 \n Processor: Dual Core 3.0 Ghz \n Memory: 4GB\n Hard Disk Space: 200MB  \n Video Card: 256mb Video Memory, capable of Shader Model 2.0+ \n DirectX®: 9.0c or Greater"
+        },
+        "mac_requirements": {
+            "minimum": "REQUIREDOS: OSX 10.9.5 - 10.11.6 \n Processor: 2.0 Ghz \n Memory: 2.5GB\n Hard Disk Space: 200MB  \n Video Card: 128mb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable",
+            "recommended": "RECOMMENDEDOS: OSX 10.9.5 - 10.11.6 \n Processor: Dual Core 3.0 Ghz \n Memory: 4GB\n Hard Disk Space: 200MB  \n Video Card: 256mb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable"
+        },
+        "linux_requirements": {
+            "minimum": "REQUIREDLINUX\nOS: Ubuntu 14.04 LTS \n Processor: 2.0 Ghz \n Memory: 2.5GB\n Hard Disk Space: 200MB  \n Video Card: 128mb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable",
+            "recommended": "RECOMMENDEDLINUX\nOS: Ubuntu 14.04 LTS \n Processor: Dual Core 3.0 Ghz \n Memory: 4GB\n Hard Disk Space: 200MB  \n Video Card: 256mb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable"
+        },
+        "status": "Installed",
+        "downloadPercent": 0,
+        "downloadSize": "N/A",
+        "lastPlayed": "Never",
+        "playTime": "0 minutes",
+        "header": "assets/105600/header.jpg",
+        "capsule": "assets/105600/capsule_184x69.jpg",
+        "icon": "assets/105600/capsule_184x69.jpg",
+        "banner": "assets/105600/header.jpg",
+        "logo": null,
+        "screenshots": [
+            "assets/105600/screenshots/ss_8c03886f214d2108cafca13845533eaa3d87d83f.1920x1080.jpg",
+            "assets/105600/screenshots/ss_ae168a00ab08104ba266dc30232654d4b3c919e5.1920x1080.jpg",
+            "assets/105600/screenshots/ss_9edd98caaf9357c2f40758f354475a56e356e8b0.1920x1080.jpg",
+            "assets/105600/screenshots/ss_75ea9a7e39eb34b40efa1e6dfd2536098dc4734b.1920x1080.jpg",
+            "assets/105600/screenshots/ss_782374517c1792debd74d24856203b876eba3a5d.1920x1080.jpg",
+            "assets/105600/screenshots/ss_04dd9f0a5773b686a452ba480b951f83b3ed5061.1920x1080.jpg",
+            "assets/105600/screenshots/ss_26c4a091c482be28efe1ecf4dfb498273e5a9107.1920x1080.jpg",
+            "assets/105600/screenshots/ss_830aa37570410b80947636785ff62096c0bf276f.1920x1080.jpg",
+            "assets/105600/screenshots/ss_0d805c81ef85dfd2a7a8b25da96f8066017fb3b3.1920x1080.jpg",
+            "assets/105600/screenshots/ss_b28125b8b8ccacbbb38a3ab4ceaf406ec94d98a4.1920x1080.jpg",
+            "assets/105600/screenshots/ss_900453507c3eb3df55175fb1362869cc75203594.1920x1080.jpg",
+            "assets/105600/screenshots/ss_a1dbbda90ea1669da35cf277e65b5191565bcb12.1920x1080.jpg",
+            "assets/105600/screenshots/ss_a34d1ebdc99634e012ea19759c12822802164b0e.1920x1080.jpg",
+            "assets/105600/screenshots/ss_6f57075d0d8f9d2fd963b74f9a4526bbf91aab10.1920x1080.jpg",
+            "assets/105600/screenshots/ss_ab3143003094dec454c5a76cc7d7948f17ca7517.1920x1080.jpg",
+            "assets/105600/screenshots/ss_1a091473c0b53e98d7a0708dd3ec0978dd56ba45.1920x1080.jpg",
+            "assets/105600/screenshots/ss_a81bfb762197b0aafc207274a708d79e7c39e45f.1920x1080.jpg",
+            "assets/105600/screenshots/ss_fefd40cad50a10c09f928f9dc3f9017f8fe50213.1920x1080.jpg",
+            "assets/105600/screenshots/ss_fd3a47380882311f6ff80cb2d4491d1de4af9e8b.1920x1080.jpg"
+        ],
+        "trailers": [
+            {
+                "id": 256785003,
+                "name": "Terraria: Journey's End Trailer",
+                "thumbnail_path": "assets/105600/trailers/movie.293x165.jpg",
+                "sources": {
+                    "webm_480p": "http://video.akamai.steamstatic.com/store_trailers/256785003/movie480_vp9.webm?t=1589654781",
+                    "webm_max": "http://video.akamai.steamstatic.com/store_trailers/256785003/movie_max_vp9.webm?t=1589654781",
+                    "mp4_480p": "http://video.akamai.steamstatic.com/store_trailers/256785003/movie480.mp4?t=1589654781",
+                    "mp4_max": "http://video.akamai.steamstatic.com/store_trailers/256785003/movie_max.mp4?t=1589654781"
+                },
+                "highlight": true
+            },
+            {
+                "id": 2040428,
+                "name": "Terraria 1.3 Trailer",
+                "thumbnail_path": "assets/105600/trailers/movie.293x165.jpg",
+                "sources": {
+                    "webm_480p": "http://video.akamai.steamstatic.com/store_trailers/2040428/movie480.webm?t=1447376855",
+                    "webm_max": "http://video.akamai.steamstatic.com/store_trailers/2040428/movie_max.webm?t=1447376855",
+                    "mp4_480p": "http://video.akamai.steamstatic.com/store_trailers/2040428/movie480.mp4?t=1447376855",
+                    "mp4_max": "http://video.akamai.steamstatic.com/store_trailers/2040428/movie_max.mp4?t=1447376855"
+                },
+                "highlight": true
+            },
+            {
+                "id": 2029566,
+                "name": "Terraria 1.2 Trailer",
+                "thumbnail_path": "assets/105600/trailers/movie.293x165.jpg",
+                "sources": {
+                    "webm_480p": "http://video.akamai.steamstatic.com/store_trailers/2029566/movie480.webm?t=1447358964",
+                    "webm_max": "http://video.akamai.steamstatic.com/store_trailers/2029566/movie_max.webm?t=1447358964",
+                    "mp4_480p": "http://video.akamai.steamstatic.com/store_trailers/2029566/movie480.mp4?t=1447358964",
+                    "mp4_max": "http://video.akamai.steamstatic.com/store_trailers/2029566/movie_max.mp4?t=1447358964"
+                },
+                "highlight": true
+            }
+        ]
+    }
+]
